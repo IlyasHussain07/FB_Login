@@ -13,7 +13,8 @@ body {
 }
 header {
     background: rgb(32, 104, 163);
-    height: 50px;
+    height: 60px;
+    padding: 8px;
 }
 .logo {
     font-size: 25px;
